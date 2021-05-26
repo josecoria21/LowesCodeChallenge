@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Lowes CodeChallenge</string>
+
+    <string name="search">Search</string>
+    <string name="city_name">City name</string>
+
+    <string name="format_forecast_details_feelslike">Feels like: %.0f</string>
+    <string name="format_forecast_list_temp">Temp: %.0f</string>
+
+</resources>
